@@ -14,7 +14,6 @@
 - 👉 Try out my chrome extension --> <code><a href="https://chrome.google.com/webstore/detail/web-highlights-web-text-h/hldjnlbobkdkghfidgoecgmklcemanhm?hl=de" title="Web Highlighter"><img width="22" src="https://lh3.googleusercontent.com/1f82YjlDGIz1vGPKnUHwwhhWeOGrs0qBNjpnA8ecd6WVc-qedy_fVlX0Wvn1kJmC1xx33xbksg=w128-h128-e365-rj-sc0x00ffffff"> Web Highlighter</a></code>
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
-<br><br>
 
 - ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
 
