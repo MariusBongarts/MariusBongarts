@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 I finished my Bachelor´s degree in Business Informatics in 2020 and i´m currently doing my Master´s degree at the Muenster University of Applied Sciences 😎
+- 🏫 I finished my Bachelor´s degree in Business Informatics in 2020 and i´m currently working at Accenture Interactive as a Software Engineering Analyst 😎
 
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/MariusBongarts" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/MariusBongarts)
