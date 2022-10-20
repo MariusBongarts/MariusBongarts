@@ -15,7 +15,7 @@
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
-- ✏️ Have a look at my blog! --> <code><a href="https://medium.com/@mariusbongarts11" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Medium</a></code>
+- ✏️ Have a look at my blog! --> <code><a href="https://medium.com/@mariusbongarts" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Medium</a></code>
 
 - ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
 
