@@ -8,7 +8,7 @@
 
 - 💼 Frontend Engineer @ Accenture Song
 
-- 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://web-highlights.com" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
+- 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
 
 - 📝 4k+ followers on Medium --> Check out my blog <code><a href="https://medium.com/@mariusbongarts" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Marius Bongarts on Medium</a></code>
 
